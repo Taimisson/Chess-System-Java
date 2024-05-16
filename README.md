@@ -1,32 +1,47 @@
+Here’s an improved version of the README in English:
+
+---
+
 # Chess System Java
 
-Este projeto implementa um sistema de xadrez em Java, permitindo a simulação de partidas com uma interface gráfica simples.
+![Chess Console](image.png)
 
-## Funcionalidades
+This project implements a chess system in Java, allowing users to simulate chess games with a simple graphical interface.
 
-- Representação completa do tabuleiro de xadrez
-- Validação de movimentos de peças conforme as regras do xadrez
-- Gerenciamento de partidas (início, jogadas e fim)
-- Interface gráfica para interação durante o jogo
+## Features
 
-## Instalação
+- Complete chessboard representation
+- Piece movement validation according to chess rules
+- Game management (start, play, and end)
+- Graphical interface for gameplay interaction
 
-1. Clone o repositório:
+## Installation
+
+1. Clone the repository:
     ```bash
     git clone https://github.com/Taimisson/Chess-System-Java.git
     ```
-2. Abra o projeto em sua IDE Java preferida.
-3. Compile o projeto para resolver as dependências.
+2. Open the project in your preferred Java IDE.
+3. Build the project to resolve dependencies.
 
-## Uso
+## Usage
 
-1. Execute a classe principal para iniciar a aplicação.
-2. Use a interface gráfica para interagir com o tabuleiro e jogar.
+1. Run the main class to start the application.
+2. Use the graphical interface to interact with the chessboard and play the game.
 
-## Contribuição
+## Contributing
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Screenshots
+
+![Screenshot 1](https://github.com/Taimisson/Chess-System-Java/blob/main/screenshots/screenshot1.png)
+![Screenshot 2](https://github.com/Taimisson/Chess-System-Java/blob/main/screenshots/screenshot2.png)
+
+---
+
+This README now includes a project banner and screenshots to make it more visually appealing. Adjust it as needed for your project.
