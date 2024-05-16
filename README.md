@@ -1,7 +1,3 @@
-Here’s an improved version of the README in English:
-
----
-
 # Chess System Java
 
 ![Chess Console](image.png)
@@ -36,12 +32,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Screenshots
-
-![Screenshot 1](https://github.com/Taimisson/Chess-System-Java/blob/main/screenshots/screenshot1.png)
-![Screenshot 2](https://github.com/Taimisson/Chess-System-Java/blob/main/screenshots/screenshot2.png)
-
----
-
-This README now includes a project banner and screenshots to make it more visually appealing. Adjust it as needed for your project.
