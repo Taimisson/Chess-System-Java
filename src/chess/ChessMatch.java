@@ -119,7 +119,7 @@ public class ChessMatch {
                 throw new IllegalStateException("There is no piece to be promoted");
             }
             if (!type.equals("B") && !type.equals("N") && !type.equals("R") && !type.equals("Q")){
-                throw new InvalidParameterException("Invalid type for promotion");
+                return promoted;
             }
             Position pos = promoted.getChessPosition().toPosition();
             Piece p = board.removePiece(pos);
