@@ -2,6 +2,8 @@
 
 This project implements a chess system in Java, allowing users to simulate chess games with a simple graphical interface.
 
+![alt text](image-1.png)
+
 ## Features
 
 - Complete chessboard representation
